@@ -1,0 +1,15 @@
+.error{
+    color: red;
+    display: inline-block;
+}
+input[type=text]{
+    width: 200px;
+}
+.index-container{
+    margin: 50px auto;
+    text-align: center;
+
+}
+body{
+    background-color: aquamarine;
+}

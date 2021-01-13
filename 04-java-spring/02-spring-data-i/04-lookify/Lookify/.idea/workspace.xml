@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="079de542-35b9-43f9-b92b-ef8fc848513f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../04-java-spring/Routing.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../04-java-spring/queryParameters/bin/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/src/main/java/com/example/demo/BookController/BookApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/src/main/java/com/example/demo/BookController/BooksController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/src/main/java/com/example/demo/BookRepository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/src/main/java/com/example/demo/BookService/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/src/main/java/com/example/demo/models/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/src/main/webapp/WEB-INF/view/editBook.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/src/main/webapp/WEB-INF/view/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/src/main/webapp/WEB-INF/view/newBook.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/src/main/webapp/WEB-INF/view/show.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/src/main/webapp/WEB-INF/view/showBook.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateDemo/META-INF/application.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateDemo/src/main/java/com/codingdojo/demo/controller/DateController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateDemo/src/main/webapp/WEB-INF/Date.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateDemo/src/main/webapp/WEB-INF/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dogs/src/main/java/com/example/demo/controller/DogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dogs/src/main/java/com/example/demo/controller/DogRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dogs/src/main/java/com/example/demo/model/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dogs/src/main/java/com/example/demo/model/Tag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dogs/src/main/java/com/example/demo/repositories/DogRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dogs/src/main/java/com/example/demo/repositories/TagRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dogs/src/main/java/com/example/demo/service/DogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dogs/src/main/java/com/example/demo/service/TagService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dogs/src/main/webapp/WEB-INF/views/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dogs/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dogs/src/main/webapp/WEB-INF/views/new.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dogs/src/main/webapp/WEB-INF/views/show.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DojoAndNinja/src/main/java/com/example/demo/controller/DojoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DojoAndNinja/src/main/java/com/example/demo/models/Dojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DojoAndNinja/src/main/java/com/example/demo/models/Ninja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DojoAndNinja/src/main/java/com/example/demo/repositories/DojoRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DojoAndNinja/src/main/java/com/example/demo/repositories/NinjaRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DojoAndNinja/src/main/java/com/example/demo/service/DojoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DojoAndNinja/src/main/java/com/example/demo/service/NinjaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DojoAndNinja/src/main/webapp/WEB-INF/dojos/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DojoAndNinja/src/main/webapp/WEB-INF/dojos/new.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DojoAndNinja/src/main/webapp/WEB-INF/ninjas/new.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DojoSurvey/src/main/java/com/codingdojo/demo/controller/SurveyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DojoSurvey/src/main/webapp/WEB-INF/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DojoSurvey/src/main/webapp/WEB-INF/survey.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Human/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Human/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Human/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Human/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Human/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Human/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Human/src/main/java/com/kevin/Human/HumanApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Human/src/main/java/com/kevin/Human/ServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Human/src/main/resources/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Human/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Human/src/main/resources/static/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Human/src/test/java/com/kevin/Human/HumanApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Languages/src/main/java/com/example/demo/controllers/PersonsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Languages/src/main/java/com/example/demo/model/License.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Languages/src/main/java/com/example/demo/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Languages/src/main/java/com/example/demo/repositories/LicenseRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Languages/src/main/java/com/example/demo/repositories/PersonRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Languages/src/main/java/com/example/demo/services/LicenseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Languages/src/main/java/com/example/demo/services/PersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Languages/src/main/webapp/WEB-INF/licenses/new.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Languages/src/main/webapp/WEB-INF/persons/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Languages/src/main/webapp/WEB-INF/persons/new.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Languages/src/main/webapp/WEB-INF/persons/show.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LanguagesCrud/src/main/java/com/example/demo/controller/LanguageApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LanguagesCrud/src/main/java/com/example/demo/controller/LanguageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LanguagesCrud/src/main/java/com/example/demo/models/Language.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LanguagesCrud/src/main/java/com/example/demo/repositories/LanguageRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LanguagesCrud/src/main/java/com/example/demo/service/LanguageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LanguagesCrud/src/main/webapp/WEB-INF/views/editLanguage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LanguagesCrud/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LanguagesCrud/src/main/webapp/WEB-INF/views/language.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LanguagesCrud/src/main/webapp/WEB-INF/views/newLanguage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/LookifyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/models/Lookify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/repositories/LookifyRespository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/services/LookifyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/addNew.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/dashboard.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/search.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/songs.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/topTen.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Post/src/main/java/com/example/demo/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Post/src/main/webapp/WEB-INF/dashboard.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Post/src/main/webapp/WEB-INF/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCode/src/main/java/com/example/demo/controller/CodeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCode/src/main/webapp/WEB-INF/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Human/src/main/java/com/kevin/Human/controller/HumanController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Human/src/main/java/com/kevin/Human/controller/HumanController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Human/src/main/webapp/WEB-INF/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Human/src/main/webapp/WEB-INF/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module-info.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h156whS1QvBmKRrvI7lvp2lgq8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Book" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fasdf\Desktop\KevinA-Assignment\Spring-Projects\Lookify\src\webapp\WEB-INF\views" />
+      <recent name="C:\Users\fasdf\Desktop\KevinA-Assignment\Spring-Projects\Lookify\src\webapp\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LookifyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Lookify" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.LookifyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="079de542-35b9-43f9-b92b-ef8fc848513f" name="Default Changelist" comment="" />
+      <created>1599165585741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599165585741</updated>
+      <workItem from="1599165590269" duration="4648000" />
+      <workItem from="1599251298507" duration="25757000" />
+      <workItem from="1603320899702" duration="5997000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="97" key="#com.intellij.ide.util.MemberChooser" timestamp="1599263029953">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="97" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1599263029953" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1603858840177">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1603858840177" />
+    <state width="1493" height="231" key="GridCell.Tab.0.bottom" timestamp="1599356448555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1599356448555" />
+    <state width="1493" height="231" key="GridCell.Tab.0.center" timestamp="1599356448555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1599356448555" />
+    <state width="1493" height="231" key="GridCell.Tab.0.left" timestamp="1599356448555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1599356448555" />
+    <state width="1493" height="231" key="GridCell.Tab.0.right" timestamp="1599356448555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1599356448555" />
+    <state width="1493" height="231" key="GridCell.Tab.1.bottom" timestamp="1599356448555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1599356448555" />
+    <state width="1493" height="231" key="GridCell.Tab.1.center" timestamp="1599356448555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1599356448555" />
+    <state width="1493" height="231" key="GridCell.Tab.1.left" timestamp="1599356448555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1599356448555" />
+    <state width="1493" height="231" key="GridCell.Tab.1.right" timestamp="1599356448555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1599356448555" />
+    <state width="1493" height="231" key="GridCell.Tab.2.bottom" timestamp="1599356448555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.2.bottom/0.0.1536.824/1920.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1599356448555" />
+    <state width="1493" height="231" key="GridCell.Tab.2.center" timestamp="1599356448555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.2.center/0.0.1536.824/1920.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1599356448555" />
+    <state width="1493" height="231" key="GridCell.Tab.2.left" timestamp="1599356448555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.2.left/0.0.1536.824/1920.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1599356448555" />
+    <state width="1493" height="231" key="GridCell.Tab.2.right" timestamp="1599356448555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.2.right/0.0.1536.824/1920.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1599356448555" />
+    <state x="485" y="124" key="RollbackChangesDialog" timestamp="1599289619075">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="124" key="RollbackChangesDialog/0.0.1536.824/1920.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1599289619075" />
+    <state x="277" y="56" key="SettingsEditor" timestamp="1599270250750">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824/1920.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1599270250750" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599290204657">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824/1920.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1599290204657" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1599251327706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1599251327706" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1599165937539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/1920.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1599165937539" />
+  </component>
+</project>
