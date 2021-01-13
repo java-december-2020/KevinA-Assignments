@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="045b8570-b0f8-4529-9436-3057f906f7c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../BirthStones/BirthStones.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/.idea/Coding Dojo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/.idea/Java Track.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/Basics/Basics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/Basics/src/Basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/Basics/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/ClassProject/ClassProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/ClassProject/src/Portfolio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/ClassProject/src/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/ClassProject/src/ProjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/Exceptions/Exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/FizzBuzz/FizzBuzz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/FizzBuzz/src/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/FizzBuzz/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/InterfacePractice/InterfacePractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/Java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/Java/.idea/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/Java/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/Java/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/Java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/Java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/Java/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/Java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/Java/About/AboutMe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/Java/About/AboutMe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/Java/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/Java/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/Java/untitled104.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/LearnProject/LearnProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/ListAssignment/.idea/ListAssignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/MapLessons/MapLessons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/MapLessons/src/MapForTracks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/Pokemon/Pokemon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/Puzzling/Puzzling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/Puzzling/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/Puzzling/src/PuzzleJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/PythagoreanTheorem/PythagoreanTheorem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/Random/Random.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/StringManipulation/StringManipulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/StringManipulation/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/StringManipulation/src/StringManipulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coding Dojo/Java Track/TestingNumberFormat/TestingNumberFormat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/.idea/KevinA-Assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/.idea/production/KevinA-Assignment/01-java-fundamentals/02-pythagorean-theorem/PythagoreanTheorem/PythagoreanTheorem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/.idea/production/KevinA-Assignment/01-java-fundamentals/03-fizzbuzz/FizzBuzz/FizzBuzz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/.idea/production/KevinA-Assignment/01-java-fundamentals/04-string-manipulation/StringManipulation/StringManipulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/.idea/production/KevinA-Assignment/01-java-fundamentals/05-basics/Basics/Basics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/.idea/production/KevinA-Assignment/01-java-fundamentals/06-puzzling/Puzzling/Puzzling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/.idea/production/KevinA-Assignment/01-java-fundamentals/07-map-of-the-hashmatique/MapLessons/MapLessons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/.idea/production/KevinA-Assignment/01-java-fundamentals/08-lists-of-exceptions/Exceptions/Exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/.idea/production/KevinA-Assignment/02-java-oop/01-project-class/ClassProject/ClassProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/.idea/production/KevinA-Assignment/02-java-oop/02-singly-linked-list/ListAssignment/.idea/ListAssignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/01-java-fundamentals/02-pythagorean-theorem/PythagoreanTheorem/PythagoreanTheorem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/01-java-fundamentals/03-fizzbuzz/FizzBuzz/FizzBuzz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/01-java-fundamentals/04-string-manipulation/StringManipulation/StringManipulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/01-java-fundamentals/05-basics/Basics/Basics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/01-java-fundamentals/06-puzzling/Puzzling/Puzzling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/01-java-fundamentals/07-map-of-the-hashmatique/MapLessons/MapLessons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/01-java-fundamentals/08-lists-of-exceptions/Exceptions/Exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/02-java-oop/01-project-class/ClassProject/ClassProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/02-java-oop/02-singly-linked-list/ListAssignment/.idea/ListAssignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/03-zoo-keeper-pt1/03-zoo-keeper-pt1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/Calculator/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/DLL/DLL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/ObjectMaster/ObjectMaster.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/PhoneAssignment/PhoneAssignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/Pokemon/Pokemon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/Pokemon/src/AbstractPokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/Pokemon/src/Pokedex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/Pokemon/src/PokemanInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/Pokemon/src/Pokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/Pokemon/src/PokemonMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/Spring-Projects/DateDemo/META-INF/application.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/Spring-Projects/DateDemo/src/main/java/com/codingdojo/demo/controller/DateController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/Spring-Projects/DateDemo/src/main/resources/static/css/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/Spring-Projects/DateDemo/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/Spring-Projects/DateDemo/src/main/webapp/WEB-INF/Date.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/Spring-Projects/DateDemo/src/main/webapp/WEB-INF/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/Spring-Projects/Post/src/main/java/com/example/demo/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/Spring-Projects/Post/src/main/webapp/WEB-INF/dashboard.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/Spring-Projects/Post/src/main/webapp/WEB-INF/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KevinA-Assignment/bank-account/bank-account.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/AddressBook/AddressBook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/AddressBook/src/com/sg/addressbook/controller/AddressBookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/AddressBook/src/com/sg/addressbook/dao/AddessBookDaoFileImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/AddressBook/src/com/sg/addressbook/dao/AddressBookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/AddressBook/src/com/sg/addressbook/dto/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/AddressBook/src/com/sg/addressbook/dto/AddressBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/AddressBook/src/com/sg/addressbook/ui/AddressBookView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/Server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/Server/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/Server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/Server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/Server/Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/Server/jQuery/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/Server/jQuery/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/Server/jQuery/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/Server/jQuery/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/Server/jQuery/jQuery.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/Server/jQuery/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/Server/jQuery/src/main/resources/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/Server/jQuery/src/main/resources/font/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/Server/jQuery/src/main/resources/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/Server/jQuery/src/main/resources/js/contactList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/Server/jQuery/src/main/resources/js/jquery-2.2.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/Server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/Server/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/Server/src/main/java/dao/ServerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/Server/src/main/java/dao/ServerDaoFileImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/Server/src/main/java/dto/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/Servers/Servers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/UserIO/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/UserIO/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/UserIO/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/UserIO/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/UserIO/.idea/libraries/Maven__org_springframework_spring_aop_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/UserIO/.idea/libraries/Maven__org_springframework_spring_beans_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/UserIO/.idea/libraries/Maven__org_springframework_spring_context_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/UserIO/.idea/libraries/Maven__org_springframework_spring_core_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/UserIO/.idea/libraries/Maven__org_springframework_spring_expression_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/UserIO/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/UserIO/.idea/libraries/Maven__org_springframework_spring_web_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/UserIO/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/UserIO/UserIO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/UserIO/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/UserIO/roster.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/UserIO/src/main/java/com/sg/classroster/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/UserIO/src/main/java/com/sg/classroster/ui/UserIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/UserIO/src/main/java/com/sg/classroster/ui/UserIOConsoleImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/UserIO/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SoftwareGuild/UserIO/src/test/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneToMany/src/main/java/com/example/demo/controller/DojoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneToMany/src/main/java/com/example/demo/controller/NinjaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneToMany/src/main/java/com/example/demo/models/Dojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneToMany/src/main/java/com/example/demo/models/Ninja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneToMany/src/main/java/com/example/demo/repositories/DojoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneToMany/src/main/java/com/example/demo/repositories/NinaRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneToMany/src/main/java/com/example/demo/service/DojoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneToMany/src/main/java/com/example/demo/service/NinjaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneToMany/src/main/webapp/WEB-INF/view/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneToMany/src/main/webapp/WEB-INF/view/newDojo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneToMany/src/main/webapp/WEB-INF/view/ninja.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneToMany/src/main/webapp/WEB-INF/view/ninjas.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OneToMany/src/main/webapp/WEB-INF/view/show.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/controllers/CodingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/controllers/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dojoSurvey/src/main/java/com/example/demo/controller/SurveyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dojoSurvey/src/main/webapp/WEB-INF/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dojoSurvey/src/main/webapp/WEB-INF/result.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp/src/main/java/com/example/jsp/demo/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp/src/main/resources/static/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp/src/main/webapp/WEB-INF/count.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp/src/main/webapp/WEB-INF/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../language/src/main/java/com/example/demo/controller/LanguageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../language/src/main/java/com/example/demo/model/Language.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../language/src/main/java/com/example/demo/repository/LanguageRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../language/src/main/java/com/example/demo/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../language/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../language/src/main/webapp/WEB-INF/view/editLanguage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../language/src/main/webapp/WEB-INF/view/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../language/src/main/webapp/WEB-INF/view/new.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../language/src/main/webapp/WEB-INF/view/show.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lookifys/src/main/java/com/example/demo/controller/LookifyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lookifys/src/main/java/com/example/demo/model/Lookify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lookifys/src/main/java/com/example/demo/repository/LookifyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lookifys/src/main/java/com/example/demo/service/LookifyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lookifys/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lookifys/src/main/webapp/WEB-INF/view/artist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lookifys/src/main/webapp/WEB-INF/view/dashboard.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lookifys/src/main/webapp/WEB-INF/view/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lookifys/src/main/webapp/WEB-INF/view/new.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lookifys/src/main/webapp/WEB-INF/view/show.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lookifys/src/main/webapp/WEB-INF/view/topTen.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc/src/main/java/com/example/demo/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc/src/main/java/com/example/demo/controller/BooksApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc/src/main/java/com/example/demo/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc/src/main/java/com/example/demo/repositories/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc/src/main/java/com/example/demo/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc/src/main/webapp/WEB-INF/books/editBook.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc/src/main/webapp/WEB-INF/books/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc/src/main/webapp/WEB-INF/books/new.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc/src/main/webapp/WEB-INF/books/showBook.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/License.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/repository/LicenseRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/repository/RelationshipRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/service/PersonsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/newLicense.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/newPerson.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/persons.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/show.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBootTraining/SpringSession/src/main/java/com/example/demo/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBootTraining/SpringSession/src/main/webapp/WEB-INF/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../StudentWork/.idea/StudentWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udacity/review/Casting/Casting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udacity/review/PythagoreanTheorem/PythagoreanTheorem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udacity/review/PythagoreanTheorem/src/PythagoreanTheorem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udacity/review/PythagoreanTheorem/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/assignments/.idea/assignments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/assignments/01-java-fundamentals/.idea/01-java-fundamentals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/assignments/01-java-fundamentals/02-pythagorean-theorem/PythagoreanTheorem/PythagoreanTheorem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/assignments/01-java-fundamentals/03-fizzbuzz/FizzBuzz/FizzBuzz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/assignments/01-java-fundamentals/04-string-manipulation/StringManipulation/StringManipulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/assignments/01-java-fundamentals/05-basics/Basics/Basics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/assignments/01-java-fundamentals/06-puzzling/Puzzling/Puzzling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/assignments/01-java-fundamentals/07-map-of-the-hashmatique/MapLessons/MapLessons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/assignments/01-java-fundamentals/08-lists-of-exceptions/Exceptions/Exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/assignments/02-java-oop/01-project-class/ClassProject/ClassProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/assignments/02-java-oop/02-singly-linked-list/ListAssignment/.idea/ListAssignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/assignments/02-java-oop/03-zoo-keeper-pt1/.idea/03-zoo-keeper-pt1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react-training/.idea/react-training.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jkFqk0bNxRtdXHr7dIuOlF25lO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fasdf\Desktop\SpringBootCodingDojo\relationship\src\main\webapp\WEB-INF\view" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.demo.model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="relationship" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="045b8570-b0f8-4529-9436-3057f906f7c7" name="Default Changelist" comment="" />
+      <created>1604340375404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604340375404</updated>
+      <workItem from="1604340378513" duration="14921000" />
+      <workItem from="1605124252291" duration="5071000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="72" key="#Assign_Data_Sources" timestamp="1604368856224">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Assign_Data_Sources/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1604368856224" />
+    <state x="574" y="97" key="#com.intellij.ide.util.MemberChooser" timestamp="1604344653653">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="97" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1604344653653" />
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1605124592611">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1605124592611" />
+    <state width="1493" height="294" key="GridCell.Tab.0.bottom" timestamp="1604402499219">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="294" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1604402499219" />
+    <state width="1493" height="103" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1604348949544" />
+    <state width="1493" height="294" key="GridCell.Tab.0.center" timestamp="1604402499219">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="294" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1604402499219" />
+    <state width="1493" height="103" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1604348949544" />
+    <state width="1493" height="294" key="GridCell.Tab.0.left" timestamp="1604402499219">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="294" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1604402499219" />
+    <state width="1493" height="103" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1604348949544" />
+    <state width="1493" height="294" key="GridCell.Tab.0.right" timestamp="1604402499219">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="294" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1604402499219" />
+    <state width="1493" height="103" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1604348949544" />
+    <state width="1493" height="294" key="GridCell.Tab.1.bottom" timestamp="1604402499030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="294" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1604402499030" />
+    <state width="1493" height="103" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1604348949306" />
+    <state width="1493" height="294" key="GridCell.Tab.1.center" timestamp="1604402499030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="294" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1604402499030" />
+    <state width="1493" height="103" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1604348949305" />
+    <state width="1493" height="294" key="GridCell.Tab.1.left" timestamp="1604402499030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="294" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1604402499030" />
+    <state width="1493" height="103" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1604348949305" />
+    <state width="1493" height="294" key="GridCell.Tab.1.right" timestamp="1604402499030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="294" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1604402499030" />
+    <state width="1493" height="103" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1604348949305" />
+    <state width="1493" height="294" key="GridCell.Tab.2.bottom" timestamp="1604402499030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="294" key="GridCell.Tab.2.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1604402499030" />
+    <state width="1493" height="103" key="GridCell.Tab.2.bottom/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1604348949306" />
+    <state width="1493" height="294" key="GridCell.Tab.2.center" timestamp="1604402499030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="294" key="GridCell.Tab.2.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1604402499030" />
+    <state width="1493" height="103" key="GridCell.Tab.2.center/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1604348949306" />
+    <state width="1493" height="294" key="GridCell.Tab.2.left" timestamp="1604402499030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="294" key="GridCell.Tab.2.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1604402499030" />
+    <state width="1493" height="103" key="GridCell.Tab.2.left/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1604348949306" />
+    <state width="1493" height="294" key="GridCell.Tab.2.right" timestamp="1604402499030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="294" key="GridCell.Tab.2.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1604402499030" />
+    <state width="1493" height="103" key="GridCell.Tab.2.right/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1604348949306" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1605124252581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1605124252581" />
+    <state x="209" y="115" key="new project wizard" timestamp="1605124608925">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="115" key="new project wizard/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1605124608925" />
+  </component>
+</project>
